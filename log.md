@@ -9,7 +9,7 @@
 
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/01_ColorQuadrants)
 
-**Screenshot:** [ColourChange-Game_day01](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day001_Screenshot_01.jpg)
+**Screenshot:** [day001](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day001_Screenshot_01.jpg)
 
 
 ### Day002: April 2, 2018 
