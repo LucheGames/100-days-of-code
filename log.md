@@ -20,5 +20,5 @@
 
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/02_ColorRadial)
 
-**Screenshot:** [ColourChange-Game_day01](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day002_Screenshot_03.jpg)
+[**Screenshot:**] (https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day002_screenshot_03.jpg)
 
