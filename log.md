@@ -8,7 +8,7 @@
 
 **Link to work:** [Colourchange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/01_ColorQuadrants)
 
-**Screenshot:** [Colourchange-Game](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day01_Screenshot_01.jpg)
+**Screenshot:** [Colourchange-Game_day01](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day01_Screenshot_01.jpg)
 
 
 
