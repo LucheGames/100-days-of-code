@@ -2,7 +2,7 @@
 
 ### Day 1: April 1, 2018 
 
-**Today's Progress**: Playing with gradients in p5js, working towards a simple interactive sufface that gan sit underneath other game elements.
+**Today's Progress**: Playing with gradients in p5js, working towards a simple interactive sufface that can sit underneath other game elements.
 
 **Thoughts:** Working on turning my own ideas into reality feels great!
 
