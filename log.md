@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day001: April 1, 2018 
 
 **Today's Progress**: Playing with gradients in p5js, working towards a simple interactive sufface that can sit underneath other game elements.
@@ -8,7 +9,7 @@
 
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/01_ColorQuadrants)
 
-**Screenshot:** [ColourChange-Game_day01](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day01_Screenshot_01.jpg)
+**Screenshot:** [ColourChange-Game_day01](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day001_Screenshot_01.jpg)
 
 
 ### Day002: April 2, 2018 
@@ -20,12 +21,4 @@
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/02_ColorRadial)
 
 **Screenshot:** [ColourChange-Game_day01](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day002_Screenshot_03.jpg)
-
-
-
-
-
-
-
-
 
