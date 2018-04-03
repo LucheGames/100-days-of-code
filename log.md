@@ -25,9 +25,9 @@
 
 ### Day003: April 3, 2018 
 
-**Today's Progress**: Still playing with radial gradients in p5js, introduced spawning behaviour on mouse press and release.
+**Today's Progress**: Still playing with radial gradients in p5js, introduced spawning "blossom" behaviour on mouse press and release.
 
-**Thoughts:** Learned how to measure an interval between mouseclicks
+**Thoughts:** Learned how to measure an interval between mouseclicks.
 
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/03_ColorRadialBlossoms)
 
