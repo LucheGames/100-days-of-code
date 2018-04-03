@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+### Goal: by day 100 I will have a simple game up in the android app store.
 
 ### Day001: April 1, 2018 
 
@@ -21,4 +21,15 @@
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/02_ColorRadial)
 
 **Screenshot:** [day002](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day002_screenshot_03.jpg)
+
+
+### Day003: April 3, 2018 
+
+**Today's Progress**: Still playing with radial gradients in p5js, introduced spawning behaviour on mouse press and release.
+
+**Thoughts:** Learned how to measure an interval between mouseclicks
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/03_ColorRadialBlossoms)
+
+**Screenshot:** [day003](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day003_screenshot_07.jpg)
 
