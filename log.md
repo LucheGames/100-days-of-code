@@ -36,7 +36,8 @@
 
 ### Day004: April 4, 2018 
 
-**Today's Progress**: Still playing with radial gradients in p5js. Created expanding circles for the duration of mouse press to give a more responcive feel to the blossom. Introduced more randomness into gradient generation to give more organic feel. Learned about the compound operator. eg: x += 4
+**Today's Progress**: Still playing with radial gradients in p5js. 
+Created expanding circles for the duration of mouse press to give a more responsiveness & introduced more randomness into gradient generation to give more organic feel. Learned about the compound operator. eg: x += 4
 
 **Thoughts:** Listening to Flying Lotus, making some wacky patterns... Fun!
 
