@@ -33,3 +33,13 @@
 
 **Screenshot:** [day003](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day003_screenshot_07.jpg)
 
+
+### Day004: April 4, 2018 
+
+**Today's Progress**: Still playing with radial gradients in p5js. Created expanding circles for the duration of mouse press to give a more responcive feel to the blossom. Introduced more randomness into gradient generation to give more organic feel. Learned about the compound operator. eg: x += 4
+
+**Thoughts:** Listening to Flying Lotus, making some wacky patterns... Fun!
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/04_ColorRadialExpandingClick)
+
+**Screenshot:** [day004](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day004_screenshot_02.jpg)
