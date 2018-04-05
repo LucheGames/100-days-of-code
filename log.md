@@ -44,3 +44,12 @@ Created expanding circles for the duration of mouse press to give a more respons
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/04_ColorRadialExpandingClick)
 
 **Screenshot:** [day004](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day004_screenshot_02.jpg)
+
+
+### Day005: April 5, 2018 
+
+**Today's Progress**: Nothing sexy to report, except the code-name tomorrow's project : Disappearing Ripple!
+I changed 5 projects script libraries over to a CDN, saving 5mb and potentially hundreds of future mb. You are welcome Planet Earth!
+
+**Thoughts:** A long day, but I got it all done just ahead of the Indiana Jones rolling ball of sleepyness.
+
