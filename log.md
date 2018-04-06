@@ -53,3 +53,18 @@ I changed 5 projects script libraries over to a CDN, saving 5mb and potentially 
 
 **Thoughts:** A long day, but I got it all done just ahead of the Indiana Jones rolling ball of sleepyness.
 
+
+
+### Day006: April 6, 2018 
+
+**Today's Progress**: Still playing with radial gradients in p5js. 
+Put in a few hours today, converting the sloppy structure of point and click to storiung the circles in an array, enabling a more generative art approach. This sets me up for future plans where I want to loop back over the array and do some disappearing animations.
+
+I also learnd more about the difference between var and let in ecmascript.
+
+**Thoughts:** http://knowyourmeme.com/memes/this-is-where-the-fun-begins
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/05_HueShiftingTrailDumper)
+
+**Screenshot:** [day006](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day006_screenshot_04.jpg)
+
