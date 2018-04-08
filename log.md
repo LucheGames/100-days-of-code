@@ -68,3 +68,27 @@ I also learned more about the difference between var and let in ECMAscript.
 
 **Screenshot:** [day006](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day006_screenshot_04.jpg)
 
+
+### Day007: April 7, 2018 
+
+**Today's Progress**: Nothing concrete to show, worked through andding interactivity by looping over arrays.
+
+**Thoughts:** A drive in Saturday: https://www.youtube.com/watch?v=gSaO-0od2Nw
+
+
+
+### Day008: April 8, 2018 
+
+**Today's Progress**:  Put in a few hours today, first on https://www.codewars.com/ and then on my own circles project. I will admit that I am mostly following along with: https://www.youtube.com/watch?v=tA_ZgruFF9k&index=28&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA right now, but I'm learnign a ton, and thats the main thing.
+
+My circles are becoming more under control, I'm still in the dark about weather they continue to exist as vectors or bitmaps once they have been drawn over. They seem to pop off the array by themselves once drawn so I'm probably doing something noobish. Will read this article on integrating p5js and DOM elements, hopefully get some answers:
+https://github.com/processing/p5.js/wiki/Beyond-the-canvas
+
+I also learned more about the difference between foreach in js.
+
+**Thoughts:** Still an absolute beginner: https://www.youtube.com/watch?v=r8NZa9wYZ_U
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/06_DisappearingRipple)
+
+**Screenshot:** [day007](https://github.com/LucheGames/ColourChange-Game/blob/ace82a438a25f402bd834b70ad3a0bc76423a133/Screenshots/Day007_screenshot_02.jpg)
+
