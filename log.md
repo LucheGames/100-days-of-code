@@ -92,3 +92,15 @@ I also learned more about the difference between foreach in js.
 
 **Screenshot:** [day007](https://github.com/LucheGames/ColourChange-Game/blob/ace82a438a25f402bd834b70ad3a0bc76423a133/Screenshots/Day007_screenshot_02.jpg)
 
+
+### Day009-010: April 9-10, 2018 
+
+**Today's Progress**:  Mainly just refactoring. I gained a new understanding of Array control and added to a stackoverflow question with a improved solution to keeping a dynamically resizing array within bounds.
+https://stackoverflow.com/a/49761236/9626641
+
+**Thoughts:** Pretty fun day!
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/07_DisappearingRipple02
+
+**Screenshot:** [day010](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day010_screenshot_03.jpg)
+
