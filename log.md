@@ -100,7 +100,19 @@ https://stackoverflow.com/a/49761236/9626641
 
 **Thoughts:** Pretty fun day!
 
-**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/07_DisappearingRipple02
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/07_DisappearingRipple02)
 
 **Screenshot:** [day010](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day010_screenshot_03.jpg)
+
+
+
+### Day011-012: April 11-12, 2018 
+
+**Today's Progress**:  Been battling Android Studio, feels like trying to stuff the javascript toothpaste back into the java tube. Currently my app works in emulator but not on an actual device. Also got some experience refactoring all my code into one javascript closure.
+
+**Thoughts:** #SoCloseICanFeelIt
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/09_p5jsAndroidStudio)
+
+**Screenshot:** [day010](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day012_screenshot_02.jpg)
 
