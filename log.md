@@ -114,5 +114,5 @@ https://stackoverflow.com/a/49761236/9626641
 
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/09_p5jsAndroidStudio)
 
-**Screenshot:** [day010](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day012_screenshot_02.jpg)
+**Screenshot:** [day012](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day012_screenshot_02.jpg)
 
