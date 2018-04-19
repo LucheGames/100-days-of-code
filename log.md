@@ -116,3 +116,22 @@ https://stackoverflow.com/a/49761236/9626641
 
 **Screenshot:** [day012](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day012_screenshot_02.jpg)
 
+
+
+### Day011-012: April 13-19, 2018 
+
+**"Today's" Progress**:  Day015-016 #100DaysOfCode Finally, after years of talking about it, and five days of slog through the android dev swamp, I achieved my goal of getting an app in the app store!!! 🎉🎉🎉
+
+
+Its in pre-alpha testing stage which means invites only, DM me if you want an invite.
+
+Day 017-019 #100DaysOfCode This week I read “Hackers: Heroes of the Computer Revolution" by Steven Levy which describes "the creepy feature creature", I’m also struggling to implement a feature, running into some gaps in my knowledge of arrays and how to use closures to set up loop timing.
+
+**Thoughts:** I wish the final details would: https://www.youtube.com/watch?v=uSM5MpKSnqE
+
+**Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/12_BackRipple)
+
+**Screenshot:** [day012](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day017_screenshot_05.jpg)
+
+
+
