@@ -131,7 +131,7 @@ Day 017-019 #100DaysOfCode This week I read “Hackers: Heroes of the Computer R
 
 **Link to work:** [ColourChange-Game](https://github.com/LucheGames/ColourChange-Game/tree/master/12_BackRipple)
 
-**Screenshot:** [day012](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day017_screenshot_05.jpg)
+**Screenshot:** [day017](https://github.com/LucheGames/ColourChange-Game/blob/master/Screenshots/Day017_screenshot_05.jpg)
 
 
 
