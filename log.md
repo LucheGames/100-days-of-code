@@ -118,7 +118,7 @@ https://stackoverflow.com/a/49761236/9626641
 
 
 
-### Day011-012: April 13-19, 2018 
+### Day013-019: April 13-19, 2018 
 
 **"Today's" Progress**:  Day015-016 #100DaysOfCode Finally, after years of talking about it, and five days of slog through the android dev swamp, I achieved my goal of getting an app in the app store!!! 🎉🎉🎉
 
